@@ -1,0 +1,20 @@
+body{
+
+    background-image: url("https://images.unsplash.com/photo-1556911220-bff31c812dba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbiUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80");
+}
+
+#recetas{
+
+    color: black;
+    text-align: center;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.enlaces{
+
+    font-size: 36px;
+    margin-left: 100px;
+    color: rgb(95, 80, 80);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
